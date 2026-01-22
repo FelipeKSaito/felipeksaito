@@ -8,6 +8,8 @@ Me chamo Felipe Saito, Sou graduado em Análise e Desenvolvimento de Sistemas na
 
 🎯 Objetivo: Contribuir em projetos que transformem dados em decisões inteligentes.
 
+📬 felipe.ksaito@outlook.com | https://www.linkedin.com/in/felipeksaito/
+
 
 ---
 
