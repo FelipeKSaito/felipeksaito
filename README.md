@@ -103,7 +103,7 @@ Me chamo Felipe Saito, sou graduado em Análise e Desenvolvimento de Sistemas na
     title="Codex"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg" 
 />
 <img 
     align="left" 
