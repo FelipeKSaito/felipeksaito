@@ -73,7 +73,6 @@ Me chamo Felipe Saito, sou graduado em Análise e Desenvolvimento de Sistemas na
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
 <img 
     align="left" 
     alt="PHP" 
@@ -104,7 +103,23 @@ Me chamo Felipe Saito, sou graduado em Análise e Desenvolvimento de Sistemas na
     title="Codex"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg)" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/light.svg" 
+/>
+<img 
+    align="left" 
+    alt="Gemini" 
+    title="Gemini"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/googlegemini" 
+/>
+<img 
+    align="left" 
+    alt="Claude" 
+    title="Claude"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/claude" 
 />
 
 <br/>
