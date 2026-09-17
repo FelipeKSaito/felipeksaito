@@ -2,11 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Felipe Saito, Sou graduado em Análise e Desenvolvimento de Sistemas na Anhembi Morumbi Campus Athon e atualmente estou aprofundando meus conhecimentos em Python, com foco total em Análise de Dados e Machine Learning.
+Desenvolvedor FullStack | Especialista Shopify
 
-💻 Experiência prévia: Suporte Técnico e gestão de infraestrutura de TI (Warehouse/Estoque).
+Me chamo Felipe Saito, sou graduado em Análise e Desenvolvimento de Sistemas na Anhembi Morumbi Campus Athon. Tenho experiência consolidada no desenvolvimento de soluções para o ecossistema Shopify utilizando Liquid, customizando temas e otimizando jornadas de compra. Além disso, sigo aprofundando meus conhecimentos em Python, com foco em Análise de Dados e Machine Learning.
 
-🎯 Objetivo: Contribuir em projetos que transformem dados em decisões inteligentes.
+💻 Experiência prévia: Arquitetura de temas Shopify (Liquid/JS/CSS) e Suporte Técnico com gestão de infraestrutura de TI (Warehouse/Estoque).
+
+🎯 Objetivo: Contribuir em projetos que unam interfaces de alta performance no e-commerce com decisões baseadas em dados.
 
 📬 felipe.ksaito@outlook.com | https://www.linkedin.com/in/felipeksaito/
 
